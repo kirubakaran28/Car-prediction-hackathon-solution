@@ -4,6 +4,5 @@
 
 # Repository contains the solution notebook
 
-I have got a rank of 173 out of 2000+ participants
-
+I have got a rank of 173 out of 2000+ participants, Shared two type of approach 
 
